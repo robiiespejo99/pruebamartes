@@ -28,10 +28,5 @@ public class CarritoVirtual {
 	public void setFechaCreacion(String fechaCreacion) {
 		this.fechaCreacion = fechaCreacion;
 	}
-	@Override
-	public String toString() {
-		return "CarritoVirtual [codigoCarrito=" + codigoCarrito + ", nitCliente=" + nitCliente + ", fechaCreacion="
-				+ fechaCreacion + "]";
-	}
-	
+	@Overri
 }
