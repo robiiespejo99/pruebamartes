@@ -22,11 +22,4 @@ public class CarritoVirtual {
 	public void setNitCliente(int nitCliente) {
 		this.nitCliente = nitCliente;
 	}
-	public String getFechaCreacion() {
-		return fechaCreacion;
-	}
-	public void setFechaCreacion(String fechaCreacion) {
-		this.fechaCreacion = fechaCreacion;
-	}
-	@Overri
-}
+	public 
